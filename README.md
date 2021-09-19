@@ -4,7 +4,7 @@ implementing neural networks from scratch
 
 # Part 1 - oldschool backprop
 
-*code* ->  `oldschool_backprop.ipynb`<br/>
+*code* ->  [oldschool_backprop.ipynb](https://github.com/panahiparham/neural-networks/blob/main/oldschool_backprop.ipynb)<br/>
 *math* -> [oldschool_backprop_math.pdf](https://drive.google.com/file/d/1CyWY_l45qt3L472i1gKYZZ-1p_kI1CZ-/view?usp=sharing)<br/>
 *paper notes* ->  [1986_paper_notes.pdf](https://drive.google.com/file/d/1s9uBUUkVPkQKjbyPZ0fTKKgNLEWkoKxu/view?usp=sharing)<br/>
 
