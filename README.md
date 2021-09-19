@@ -5,8 +5,9 @@ implementing neural networks from scratch
 # Part 1 - oldschool backprop
 
 *code* ->  `oldschool_backprop.ipynb`<br/>
-*math* ->(oldschool_backprop_math.pdf)[https://drive.google.com/file/d/1CyWY_l45qt3L472i1gKYZZ-1p_kI1CZ-/view?usp=sharing]
-*paper notes* -> `1986_paper_notes.pdf`<br/>
+*math* -> [oldschool_backprop_math.pdf](https://drive.google.com/file/d/1CyWY_l45qt3L472i1gKYZZ-1p_kI1CZ-/view?usp=sharing)<br/>
+*paper notes* ->  [1986_paper_notes.pdf](https://drive.google.com/file/d/1s9uBUUkVPkQKjbyPZ0fTKKgNLEWkoKxu/view?usp=sharing)<br/>
+
  * Create, train and evaluate feed forward neural networks, as it was described in the 1986 paper - [learning representations by back-propagating errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf).
 
 
